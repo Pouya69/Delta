@@ -1,3 +1,5 @@
+![Game Cover](https://github.com/Pouya69/Delta/blob/master/COVER.png)
+
 # * PLEASE PRESS F11 TO FULLSCREEN YOUR BROWSER! *
 (if on mac... It will be different lol)
 
