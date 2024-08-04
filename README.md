@@ -23,10 +23,10 @@
 - Download the project and extract it into a folder
 - Install VS Code
 - Install p5.vscode Extension in the Extensions tab on the left
-- Open the folder which contains the project's files (where index.html is)
+- Open the folder which contains the project's files (where index.html is) in Open Folder tab
 - On the bottom right of your screen press "Go Live"
 - Enjoy!
-
+- Fullscreen with F11
 
 ### If you don't want to... You can still run the game using the below link. Just set the resolution in Sketch.js WIDTH and HEIGHT
 https://editor.p5js.org/pooyasalehi69/full/CEcksvBEk
